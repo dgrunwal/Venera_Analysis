@@ -169,17 +169,18 @@ fig.write_html("venera14_interactive_spectrogram.html")
 ## Background: Venera 13
 
 | Detail | Data |
-| Launch date | October 30, 1981
-| Atmosphere entry | March 1, 1982
-| Landing date/time | March 1, 1982 — 03:57:21 UT
-| Landing site | 7°30′S, 303°E — east of Phoebe Regio
-| Surface duration | 2 hours, 7 minutes (design life was only 32 min)
-| Surface temperature | ~465°C (869°F)
-| Atmospheric pressure | ~89–94 atm
-| Lander mass | 760 kg
-| Launch vehicle | Proton-K booster, Baikonur Cosmodrome
-| Images returned 14 colour panoramic imagesRock type identified
-| Weakly differentiated melanocratic alkaline gabbroid — similar to leucitic basalt
+|---|---|
+| Launch date | October 30, 1981 |
+| Atmosphere entry | March 1, 1982 |
+| Landing date/time | March 1, 1982 — 03:57:21 UT |
+| Landing site | 7°30′S, 303°E — east of Phoebe Regio |
+| Surface duration | 2 hours, 7 minutes (design life was only 32 min) |
+| Surface temperature | ~465°C (869°F) |
+| Atmospheric pressure | ~89–94 atm |
+| Lander mass | 760 kg |
+| Launch vehicle | Proton-K booster, Baikonur Cosmodrome |
+| Images returned 14 colour panoramic imagesRock type identified |
+| Weakly differentiated melanocratic alkaline gabbroid — similar to leucitic basalt |
 
 
 ## Background: Venera 14
