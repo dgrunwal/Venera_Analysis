@@ -166,25 +166,20 @@ import plotly.graph_objects as go
 fig = go.Figure(go.Heatmap(z=10*np.log10(spec), x=times, y=frequencies, colorscale='Inferno'))
 fig.write_html("venera14_interactive_spectrogram.html")
 ```
-
 ## Background: Venera 13
 
-| Detail | Data |
-|---|---|
-| Venera 13 — Verified Mission Data
-| Detail | Data |
-| Launch date | October 30, 1981
-| Atmosphere entry | March 1, 1982
-| Landing date/time | March 1, 1982 — 03:57:21 UT
-| Landing site | 7°30′S, 303°E — east of Phoebe Regio
-| Surface duration | 2 hours, 7 minutes (design life was only 32 min)
-| Surface temperature | ~465°C (869°F)
-| Atmospheric pressure | ~89–94 atm
-| Lander mass | 760 kg
-|Launch vehicle | Proton-K booster, Baikonur Cosmodrome
-Images returned 14 colour panoramic imagesRock type identifiedWeakly differentiated melanocratic alkaline gabbroid 
-— similar to leucitic basalt
-
+Detail | Data |
+Launch date | October 30, 1981
+Atmosphere entry | March 1, 1982
+Landing date/time | March 1, 1982 — 03:57:21 UT
+Landing site | 7°30′S, 303°E — east of Phoebe Regio
+Surface duration | 2 hours, 7 minutes (design life was only 32 min)
+Surface temperature | ~465°C (869°F)
+Atmospheric pressure | ~89–94 atm
+Lander mass | 760 kg
+Launch vehicle | Proton-K booster, Baikonur Cosmodrome
+Images returned 14 colour panoramic imagesRock type identified
+Weakly differentiated melanocratic alkaline gabbroid — similar to leucitic basalt
 
 
 ## Background: Venera 14
@@ -192,14 +187,15 @@ Images returned 14 colour panoramic imagesRock type identifiedWeakly differentia
 | Detail | Data |
 |---|---|
 | Launch date | November 4, 1981 |
-| Landing date | March 3, 1982 |
+| Landing date/time | March 3, 1982 — 07:00:10 UT
 | Landing site | 13°15′S 310°0′E (east of Phoebe Regio) |
 | Surface duration | 57 minutes |
 | Surface temperature | ~465°C (869°F) |
 | Atmospheric pressure | ~90 atm |
 | Notable instruments | Anemometer (ISV-75), Microphone, Seismometer (Groza-2) |
 
----
+Note: landing time differences between Venera 13 and 14 = 4 days, 3 hours, 2 min, 49 sec
+
 
 ## References
 
