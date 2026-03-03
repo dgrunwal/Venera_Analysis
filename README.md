@@ -201,7 +201,7 @@ Note: landing time differences between Venera 13 and 14 = 4 days, 3 hours, 2 min
 
 ## References
 
-- Lavochkin Manufacturer Data Sheets (translated by David Grunwald): https://davidgrunwaldblog.wordpress.com
+- Venera Program Overview  https://davidgrunwaldblog.wordpress.com/2017/09/19/soviet-%d0%b2%d0%b5%d0%bd%d0%b5%d1%80%d0%b0-venera-space-program-1970-1982-venera-7-14/
 - ESA Venus Express Wind Data: https://www.esa.int/Science_Exploration/Space_Science/Venus_Express
 - NASA NSSDC Venera 14: https://nssdc.gsfc.nasa.gov
 
