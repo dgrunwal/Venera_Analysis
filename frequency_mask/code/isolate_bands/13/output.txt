@@ -1,0 +1,5 @@
+C:\python3_13>python v_isolate_13.py
+Sample rate: 48000 Hz | Duration: 96.05s | Shape: (4610351, 2)
+Frequencies retained: 20Hz – 1000Hz
+Bins kept: 188256 / 4610351 (4.1%)
+Saved: venus_isolated_20_1000hz.wav

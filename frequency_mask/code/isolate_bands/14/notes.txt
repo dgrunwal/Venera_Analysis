@@ -1,0 +1,2 @@
+Analyzing venus_isolated_20_1000hz at ~1:00 mark the drill vibration can be heard until ~2:05.  This is a known physical occurrence and can be checked for sound dynamics.
+This recording can be spectrogrammed for additional information.  The frequencies can be taken apart for further analysis.  The pop off can be analyzed as well for mechanics of explosion on Venus.
