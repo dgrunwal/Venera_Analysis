@@ -10,6 +10,12 @@ The Venera 13/14 lander recorded sounds on the Venusian surface — one of the o
 
 Load **multiple Venera recordings** (e.g., Venera 13 vs. Venera 14) side-by-side in a multi-panel figure to compare atmospheric acoustic signatures across different landing sites on Venus.
 
+3/4/2026  Additional analysis on Venera 13/14 audio files including 3 folders each technique includes Venera 13/14 data gathered.
+
+audio_analysis - additional audio analysis 
+frequency mask - frequency analysis, including isolated presentation on 120Hz - 1000Hz frequency band eliminating bounded frequencies 
+time_mask - analysis showing templating frequencies for further analysis 
+
 ---
 
 ## Requirements
