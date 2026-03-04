@@ -1,0 +1,20 @@
+C:\python3_13>python time_msk_13.py
+File duration : 96.0 s  (analysing first 60 s)
+Sample rate   : 16000 Hz (downsampled from 48000)
+RMS           : 0.1216
+Peak          : 0.9638
+Crest factor  : 7.92  (18.0 dB)
+
+Top 10 Dominant Frequencies:
+   1.    60.00 Hz   magnitude=23429
+   2.    60.02 Hz   magnitude=4484
+   3.    59.97 Hz   magnitude=4331
+   4.    59.95 Hz   magnitude=4166
+   5.    60.03 Hz   magnitude=3878
+   6.    59.98 Hz   magnitude=3569
+   7.    60.05 Hz   magnitude=3190
+   8.   133.35 Hz   magnitude=2720
+   9.    50.00 Hz   magnitude=2311
+  10.    36.72 Hz   magnitude=2225
+
+✅ Saved → venera13_analysis.png
