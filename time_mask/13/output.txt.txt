@@ -1,0 +1,14 @@
+C:\python3_13>python time_mask_13.py
+Spectrogram shape : 257 freq bins × 7497 time bins
+Time resolution   : 0.0080 s/bin
+Freq resolution   : 31.25 Hz/bin
+
+Single mask       : bins 2623–2873  (21.0s – 23.0s)
+Multi-mask regions:
+  Mask 1: bins 5782–5807  (46.3s – 46.5s)
+  Mask 2: bins 3235–3360  (25.9s – 26.9s)
+  Mask 3: bins 6363–6449  (50.9s – 51.6s)
+C:\python3_13\time_mask_13.py:158: UserWarning: Creating legend with loc="best" can be slow with large amounts of data.
+  plt.savefig("venera13_time_masking.png", dpi=130,
+
+✅ Saved → venera13_time_masking.png
